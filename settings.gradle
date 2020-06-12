@@ -1,0 +1,2 @@
+rootProject.name='exmample_firebase_notification_forground'
+include ':app'

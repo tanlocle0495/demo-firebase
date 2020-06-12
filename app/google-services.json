@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809934888736",
+    "firebase_url": "https://fir-notifi-89a45.firebaseio.com",
+    "project_id": "fir-notifi-89a45",
+    "storage_bucket": "fir-notifi-89a45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809934888736:android:4ae6f7d4886ae81e3d0145",
+        "android_client_info": {
+          "package_name": "com.andrew.exmample_firebase_notification_forground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809934888736-2lm25ist53msn9phd06vvs626nnvlqpg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.andrew.exmample_firebase_notification_forground",
+            "certificate_hash": "a4cadf868a0b7a460b044ded824a8fa1199f69d9"
+          }
+        },
+        {
+          "client_id": "809934888736-f0bdvd840u64tlun63ddhil7bolfica1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9cl-nxmEfmvxYbBZw_81a3j12UcgANak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809934888736-f0bdvd840u64tlun63ddhil7bolfica1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
